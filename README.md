@@ -11,10 +11,10 @@ This is a personal project to create E-Commerce app using React Native and relat
 Home screen -
 <img src="https://user-images.githubusercontent.com/112480734/220059849-fccb98ac-2bae-4ad4-97f2-abc3e3f95f3c.png" alt="Home screen" width="500" height="600">
 Product Details -
-<img src="https://user-images.githubusercontent.com/112480734/220060424-b0c9f45b-6ff5-4e22-80fb-2fe5af380d82.png" alt="Home screen" width="500" height="600">
+<img src="https://user-images.githubusercontent.com/112480734/220060424-b0c9f45b-6ff5-4e22-80fb-2fe5af380d82.png" alt="Product Details screen" width="500" height="600">
 
-Cart Screen-
-<img src="https://user-images.githubusercontent.com/112480734/220060705-0b42ace3-11ae-4875-a239-03bb0ee7a4b5.png" alt="Home screen" width="500" height="600">
+Cart Screen-</br>
+<img src="https://user-images.githubusercontent.com/112480734/220060705-0b42ace3-11ae-4875-a239-03bb0ee7a4b5.png" alt="Cart screen" width="500" height="600">
 
 
 
